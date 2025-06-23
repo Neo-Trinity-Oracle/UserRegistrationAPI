@@ -7,7 +7,7 @@ User Update: Users can update their profile, including their name and password, 
 Password Hashing: The password is securely hashed using a hashing utility before storage to protect sensitive user data.
 
 ### Technologies Used:
-ASP.NET Core 8.0: A modern, cross-platform framework used to build the Web API.
+ASP.NET Core Web API: A modern, cross-platform framework used to build the Web API.
 Entity Framework Core: ORM used for database interactions and entity management.
 SQL Server: Database used to store user data securely.
 Swagger: Used for API documentation and testing the API endpoints in an interactive manner.
